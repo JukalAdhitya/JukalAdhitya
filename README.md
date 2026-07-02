@@ -39,7 +39,7 @@ B.Tech Computer Science Graduate • Software Engineer • AI/ML Engineer • Fu
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://jukal.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -436,7 +436,7 @@ Built an intelligent Resume Screening Platform capable of extracting candidate i
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://jukal.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
