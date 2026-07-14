@@ -386,6 +386,7 @@ Built an intelligent Resume Screening Platform capable of extracting candidate i
 </p> 
 
 --- -->
+---
 
 # 🔥 GitHub Streak
 
@@ -394,6 +395,7 @@ Built an intelligent Resume Screening Platform capable of extracting candidate i
 <img src="https://streak-stats.demolab.com?user=JukalAdhitya&theme=github-dark-blue&hide_border=true"/>
 
 </p>
+
 
 <!-- ---
 
@@ -406,6 +408,7 @@ Built an intelligent Resume Screening Platform capable of extracting candidate i
 </p> 
 
 --- -->
+---
 
 # 📈 Contribution Graph
 
@@ -414,6 +417,7 @@ Built an intelligent Resume Screening Platform capable of extracting candidate i
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JukalAdhitya&theme=github-dark&hide_border=true"/>
 
 </p>
+
 
 ---
 
