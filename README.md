@@ -254,7 +254,7 @@ Jira
 ## 🌾 SowSure
 ### AI Powered Crop Yield Prediction Platform
 
-🔹 Built a Random Forest based prediction model using:
+Built a Random Forest based prediction model using:
 
 - NDVI Data
 - Soil Data
@@ -464,4 +464,3 @@ Built an intelligent Resume Screening Platform capable of extracting candidate i
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=120&section=footer"/>
 
 </p>
----
