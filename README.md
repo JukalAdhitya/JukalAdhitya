@@ -20,12 +20,12 @@ B.Tech Computer Science Graduate • Software Engineer • AI/ML Engineer • Fu
 
 ### Currently focusing on
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Software Engineering
-- 🌐 Full Stack Development
-- 🧠 Large Language Models (LLMs)
-- 📊 Data Analysis
-- 🎨 UI/UX Design
+- Artificial Intelligence & Machine Learning
+- Software Engineering
+- Full Stack Development
+- Large Language Models (LLMs)
+- Data Analysis
+- UI/UX Design
 
 ---
 
@@ -230,22 +230,22 @@ Jira
 ## 🚗 Ford Motor Private Limited
 ### Software Engineering Intern | Jun 2025 – Jul 2025
 
-- 🚀 Automated **46+** daily system health checks using **Python, Playwright, and Ford-LLM**.
-- ⚡ Built **42+ scalable monitoring modules** integrated with SQL Server, CRM, Informatica, and Spring Boot.
-- 📊 Developed responsive dashboards with real-time alerts and consolidated reports.
-- ⏱️ Reduced manual monitoring time from **3 hours to 10 minutes**.
-- 🌍 Improved monitoring reliability across **18 European markets**.
+- Automated **46+** daily system health checks using **Python, Playwright, and Ford-LLM**.
+- Built **42+ scalable monitoring modules** integrated with SQL Server, CRM, Informatica, and Spring Boot.
+- Developed responsive dashboards with real-time alerts and consolidated reports.
+- Reduced manual monitoring time from **3 hours to 10 minutes**.
+- Improved monitoring reliability across **18 European markets**.
 
 ---
 
 ## 💻 SRM Technologies
 ### Software Developer Intern | Mar 2024 – Nov 2024
 
-- 🤖 Developed an **AI-powered Resume Screening Platform**.
-- 🧠 Built a **GenAI Resume Parser** using **BERT, NLP & Gemini API**.
-- 🌐 Designed responsive React.js interfaces with modern UI/UX.
-- ⚙️ Integrated **Node.js REST APIs** with MySQL.
-- 📈 Automated HR workflows, saving over **3 hours/day**.
+- Developed an **AI-powered Resume Screening Platform**.
+- Built a **GenAI Resume Parser** using **BERT, NLP & Gemini API**.
+- Designed responsive React.js interfaces with modern UI/UX.
+- Integrated **Node.js REST APIs** with MySQL.
+- Automated HR workflows, saving over **3 hours/day**.
 
 ---
 
@@ -343,36 +343,36 @@ Built an intelligent Resume Screening Platform capable of extracting candidate i
 
 # 📜 Certifications
 
-🏅 Oracle Certified — MySQL 8.0 Database Developer
+Oracle Certified — MySQL 8.0 Database Developer
 
-🏅 Oracle Certified — Cloud Infrastructure Foundations Associate
+Oracle Certified — Cloud Infrastructure Foundations Associate
 
-🏅 Oracle Certified — Generative AI Professional
+Oracle Certified — Generative AI Professional
 
-🏅 NPTEL Certified — Programming in Java
+NPTEL Certified — Programming in Java
 
 ---
 
 # 🏆 Achievements
 
-🥈 2nd Place — HackRush 1.0
+2nd Place — HackRush 1.0
 
-🥈 2nd Place — Generative AI Ideathon
+2nd Place — Generative AI Ideathon
 
-🚀 Developed enterprise AI solutions during internships at Ford Motor Private Limited and SRM Technologies.
+Developed enterprise AI solutions during internships at Ford Motor Private Limited and SRM Technologies.
 
 ---
 
 # 🌱 Currently Learning
 
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ☁️ Cloud Technologies
-- 🐳 Docker & Kubernetes
-- 📊 Data Analytics
-- ⚡ System Design
-- 🚀 Backend Scalability
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Cloud Technologies
+- Docker & Kubernetes
+- Data Analytics
+- System Design
+- Backend Scalability
 
 <!-- ---
 # 📊 GitHub Analytics
