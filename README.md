@@ -14,9 +14,9 @@ B.Tech Computer Science Graduate • Software Engineer • AI/ML Engineer • Fu
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Graduate passionate about building intelligent software and scalable applications.
+B.Tech Computer Science Engineering Graduate passionate about building intelligent software and scalable applications.
 
-💡 I enjoy combining Software Engineering, Artificial Intelligence, and Full Stack Development to create real-world solutions.
+I enjoy combining Software Engineering, Artificial Intelligence, and Full Stack Development to create real-world solutions.
 
 ### Currently focusing on
 
