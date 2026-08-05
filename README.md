@@ -373,8 +373,7 @@ Developed enterprise AI solutions during internships at Ford Motor Private Limit
 - Data Analytics
 - System Design
 - Backend Scalability
-- 
-aaa
+
 <!-- ---
 # 📊 GitHub Analytics
 
