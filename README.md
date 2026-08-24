@@ -185,6 +185,41 @@ GitHub
 
 ---
 
+## 👁️ Computer Vision
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/><br>
+OpenCV
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="55"/><br>
+YOLO
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br>
+PyTorch
+</td>
+
+<td align="center" width="120">
+<img src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/cuda-toolkit.png" width="55"/><br>
+CUDA
+</td>
+
+<td align="center" width="120">
+<img src="https://developer.nvidia.com/sites/default/files/akamai/tensorrt/images/tensorrt-logo.png" width="55"/><br>
+TensorRT
+</td>
+
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tools
 
 <table>
