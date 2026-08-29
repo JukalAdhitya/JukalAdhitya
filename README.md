@@ -1,7 +1,6 @@
 <h1 align="center">
 Hi 👋, I'm Jukal Adhitya
 </h1>
-
 <h3 align="center">
 B.Tech Computer Science Graduate • Software Engineer • AI/ML Engineer • Full Stack Developer
 </h3>
